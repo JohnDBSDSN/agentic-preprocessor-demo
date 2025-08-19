@@ -1,0 +1,104 @@
+id,text,age,gender,income,join_date,label
+31,poor quality,,M,40647.0,2023-07-23,0
+68,terrible support,42.0,F,51606.0,13/02/2024,0
+63,amazing support,33.0,M,44599.0,03-09-2024,1
+48,loved it,54.0,,43121.0,08-03-2024,1
+43,very satisfied,21.0,F,40893.0,2024-01-07,1
+41,slow response,28.0,M,70941.0,20/01/2023,0
+91,friendly staff,52.0,,55945.0,2023-03-11,1
+46,happy with purchase,,F,43403.0,2023-03-01,1
+11,great service,43.0,F,34014.0,03/07/2024,1
+1,best experience,58.0,F,56641.0,2024-01-26,1
+19,worst ever,49.0,F,30784.0,2024-04-09,0
+32,best experience,56.0,M,38716.0,06/06/2023,1
+98,unhelpful staff,31.0,M,64699.0,16/11/2024,0
+86,bad experience,30.0,,500000.0,08/01/2023,0
+77,terrible support,34.0,M,69567.0,19/08/2023,0
+5,happy with purchase,40.0,M,30569.0,15/09/2023,1
+80,poor quality,26.0,F,47019.0,22/01/2023,0
+34,not satisfied,40.0,F,52009.0,2023-06-15,0
+13,very satisfied,59.0,F,48070.0,2024-10-18,1
+27,very satisfied,46.0,F,49190.0,11-02-2023,1
+84,friendly staff,27.0,F,999999.0,08-25-2024,1
+54,not satisfied,21.0,,61289.0,05-09-2023,0
+23,unhelpful staff,52.0,M,42533.0,02/07/2023,0
+69,excellent quality,59.0,F,51699.0,11-18-2024,1
+45,excellent quality,47.0,M,52386.0,09-03-2023,1
+99,loved it,53.0,M,39204.0,05-12-2024,1
+16,very satisfied,41.0,M,40729.0,2023-10-28,1
+74,bad experience,45.0,F,69734.0,07/04/2024,0
+40,loved it,33.0,M,36655.0,2024-05-15,1
+10,excellent quality,,F,37455.0,2024-11-29,1
+85,happy with purchase,,M,38311.0,2023-08-14,1
+12,loved it,55.0,M,41093.0,10-01-2023,1
+54,not satisfied,21.0,,61289.0,05-09-2023,0
+56,not satisfied,23.0,M,72675.0,06/11/2024,0
+29,best experience,35.0,F,68754.0,03/06/2024,1
+65,poor quality,34.0,F,33051.0,06/07/2024,0
+6,friendly staff,58.0,F,68210.0,07-20-2024,1
+79,disappointed,44.0,F,67233.0,2023-12-13,0
+66,bad experience,27.0,F,78747.0,07-25-2023,0
+36,excellent quality,58.0,,75091.0,06-27-2024,1
+17,unhelpful staff,21.0,M,64177.0,21/03/2024,0
+92,disappointed,,M,55316.0,02/02/2023,0
+35,bad experience,28.0,M,54376.0,06/07/2024,0
+8,loved it,42.0,,66631.0,27/11/2024,1
+44,loved it,39.0,F,55547.0,11/11/2023,1
+73,poor quality,43.0,,45202.0,2024-06-13,0
+28,terrible support,47.0,M,79689.0,2024-10-16,0
+20,bad experience,57.0,M,57751.0,04/01/2023,0
+84,friendly staff,27.0,F,999999.0,08-25-2024,1
+26,friendly staff,44.0,F,35801.0,02/10/2024,1
+78,very satisfied,20.0,F,58940.0,03-07-2023,1
+50,best experience,36.0,F,63621.0,29/03/2023,1
+14,happy with purchase,43.0,F,65777.0,15/12/2023,1
+25,bad experience,41.0,F,69974.0,2023-04-19,0
+4,happy with purchase,27.0,M,53093.0,2024-06-25,1
+18,happy with purchase,43.0,F,75017.0,06-11-2023,1
+39,poor quality,44.0,F,42039.0,11-28-2023,0
+9,unhelpful staff,30.0,M,75681.0,04-28-2023,0
+81,worst ever,28.0,M,76185.0,08-25-2024,0
+7,best experience,38.0,F,64663.0,2023-01-12,1
+67,happy with purchase,33.0,M,79156.0,2023-11-16,1
+37,worst ever,37.0,,34780.0,2023-01-01,0
+90,happy with purchase,54.0,F,77030.0,08-23-2023,1
+57,not satisfied,48.0,F,34777.0,05-01-2024,0
+96,friendly staff,28.0,M,31150.0,09-01-2023,1
+55,amazing support,25.0,M,61024.0,2023-05-12,1
+51,poor quality,55.0,F,58312.0,05-12-2024,0
+70,happy with purchase,40.0,F,30876.0,2024-10-27,1
+47,slow response,27.0,F,62097.0,04/09/2023,0
+71,excellent quality,35.0,M,62093.0,18/01/2024,1
+62,happy with purchase,55.0,F,78096.0,13/09/2024,1
+100,poor quality,,F,31081.0,2023-08-08,0
+82,friendly staff,43.0,F,48077.0,2024-07-21,1
+42,not satisfied,45.0,F,34495.0,04-25-2023,0
+59,bad experience,45.0,,45338.0,19/06/2023,0
+49,happy with purchase,33.0,F,40966.0,2023-03-22,1
+89,not satisfied,54.0,F,67945.0,02/03/2023,0
+58,very satisfied,37.0,M,59749.0,2024-07-16,1
+76,very satisfied,48.0,M,37987.0,2023-09-11,1
+33,not satisfied,26.0,,53355.0,01-18-2024,0
+97,amazing support,27.0,M,53944.0,2023-10-13,1
+60,loved it,53.0,M,32491.0,09-29-2023,1
+64,worst ever,,M,49508.0,2023-08-05,0
+95,best experience,26.0,,35949.0,10/06/2024,1
+38,best experience,23.0,F,32368.0,05/09/2024,1
+30,loved it,34.0,F,59592.0,09-15-2024,1
+2,great service,48.0,F,64584.0,02/09/2024,1
+53,worst ever,23.0,,52677.0,29/06/2024,0
+22,amazing support,,,70328.0,2024-05-27,1
+3,bad experience,34.0,M,62745.0,04-24-2024,0
+24,terrible support,31.0,F,70111.0,06-03-2024,0
+88,poor quality,27.0,M,58251.0,2024-10-08,0
+94,excellent quality,47.0,F,38308.0,2023-03-14,1
+75,loved it,,,37079.0,05-04-2023,1
+87,unhelpful staff,36.0,F,44098.0,03-14-2023,0
+83,bad experience,20.0,F,56258.0,24/08/2023,0
+21,great service,21.0,M,5.0,09-27-2023,1
+61,amazing support,,M,57236.0,2024-06-24,1
+72,terrible support,37.0,F,34142.0,03-24-2024,0
+15,great service,22.0,F,46538.0,04-25-2023,1
+93,loved it,58.0,F,62217.0,12-05-2023,1
+52,bad experience,59.0,M,79726.0,2023-03-12,0
+71,excellent quality,35.0,M,62093.0,18/01/2024,1
