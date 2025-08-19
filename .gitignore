@@ -1,0 +1,38 @@
+# -------------------------------
+# Python cache & build files
+# -------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output folders (cleaned datasets, reports, plots, etc.)
+output/
+Data/input_reviews.csv
+Data/*.csv
+
+# Logs
+*.log
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Environment & secrets
+.env
+*.key
+*.secret
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
