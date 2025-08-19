@@ -1,0 +1,52 @@
+=== AGENTIC PREPROCESSOR REPORT ===
+
+Schema Summary
+{
+  "n_rows": 103,
+  "n_cols": 7,
+  "dtypes": {
+    "id": "int64",
+    "text": "object",
+    "age": "float64",
+    "gender": "object",
+    "income": "float64",
+    "join_date": "object",
+    "label": "int64"
+  },
+  "null_counts": {
+    "id": 0,
+    "text": 0,
+    "age": 10,
+    "gender": 15,
+    "income": 0,
+    "join_date": 0,
+    "label": 0
+  },
+  "dup_count": "3",
+  "categorical_candidates": [
+    "text",
+    "gender",
+    "join_date"
+  ]
+}
+
+Agent Decision Report (GPT)
+{
+  "selected_steps": [
+    "missing_data",
+    "deduplicate",
+    "dtype_conversion",
+    "categorical_encoding"
+  ],
+  "explanation": "There are missing values in 'age' and 'gender' columns, so missing_data handling is needed. There are 3 duplicate rows, so deduplication is required. The 'join_date' column is of object type but likely represents dates, so dtype_conversion to datetime is appropriate. The columns 'text', 'gender', and 'join_date' are categorical candidates and should be encoded for modeling."
+}
+
+Preprocessing Steps Applied
+- date_imputation_join_date: Resolved 69 missing values in 'join_date' using Median method → 2023-11-06
+- dtype_conversion: Converted dates, cast low-cardinality objects.
+- deduplicate: Dropped 3 duplicate rows.
+- missing_data: Imputed numerics with median, categoricals with mode.
+- categorical_encoding: Applied One-Hot Encoding to: ['text', 'gender']
+
+Final Dataset Shape
+100 rows x 23 cols
